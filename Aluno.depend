@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727531560 source:c:\users\pedro\documents\estudosacadêmicos\c,ed,acc\ed-rafael\praticaed\aluno\modulo.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1727531560 c:\users\pedro\documents\estudosacadêmicos\c,ed,acc\ed-rafael\praticaed\aluno\lib.h
+
+1727531560 source:c:\users\pedro\documents\estudosacadêmicos\c,ed,acc\ed-rafael\praticaed\aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
